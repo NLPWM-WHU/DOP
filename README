@@ -1,2 +1,2 @@
 Please download DBpedia from https://databus.dbpedia.org/dbpedia/mappings/mappingbased-objects/2021.09.01/mappingbased-objects_lang=en.ttl.bzip2, after unzipping, move it into data/dbpedia.
-Please unzipp train_data_dbpedia.zip secondly.
+Please unzipp data/redial/train_data_dbpedia.zip secondly.
